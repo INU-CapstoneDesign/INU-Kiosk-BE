@@ -7,7 +7,7 @@ const db = require('./models/index');
 
 const { Menus } = db;
 
-// 미들웨어 사용
+// 미들웨어 사용 수정2
 app.use(express.json());
 
 // 인트로 페이지
