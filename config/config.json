@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "wktlr011226!",
-    "database": "KIOSK",
+    "password": "####",
+    "database": "####",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "port" : 8080
