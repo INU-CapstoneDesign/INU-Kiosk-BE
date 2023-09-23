@@ -4,10 +4,10 @@ const Sequelize = require('sequelize');
 const config = require('../config/config.json');
 
 // Sequelize('database', 'username', 'password', 'details{}')
-const sequelize = new Sequelize('KIOSK', 'root', 'wktlr011226!', {
+const sequelize = new Sequelize('####', 'root', '####', {
   host: '127.0.0.1',
   dialect: 'mysql',
-  port: 8080, // port 번호
+  port: '####', // port 번호
 });
 
 // model export 하기
